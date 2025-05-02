@@ -32,7 +32,6 @@ Welcome to my GitHub! I'm an aspiring **Data Analyst** with a strong foundation 
 - Building end-to-end data analysis and visualization projects
 - Learning advanced Excel techniques and Power BI reporting
 - Exploring automation, web scraping, and web development using Python
-- Strengthening knowledge in cybersecurity and ethical hacking with Python
 
 ---
 
